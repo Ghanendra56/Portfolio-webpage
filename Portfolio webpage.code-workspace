@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\..\\register-main\\register-main\\scripts"
+		},
+		{
+			"path": "..\\..\\register-main\\register-main\\tests"
+		},
+		{
+			"path": "..\\..\\register-main\\register-main\\utils"
+		},
+		{
+			"path": "..\\..\\register-main\\register-main\\domains"
+		},
+		{
+			"path": "..\\..\\register-main\\register-main\\media"
+		},
+		{
+			"path": "..\\..\\register-main\\register-main\\.github"
+		}
+	],
+	"settings": {}
+}
